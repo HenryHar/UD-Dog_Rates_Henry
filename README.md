@@ -1,4 +1,4 @@
-# twitter_profile_scraping_and_analysis
+# wrangling_and_analyzing_a_popular_twitter_profile
 Wrangling and analyzing @dog_rates tweets
 
 This repository contains my data wrangling and analysis project of the twitter.com/@dog_rates profile
